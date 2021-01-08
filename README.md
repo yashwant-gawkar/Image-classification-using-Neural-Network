@@ -1,2 +1,2 @@
 # Image-classification-using-Neural-Network
-Image classification using TensorFlow and Keras.
+A deep learning project of Image classification using TensorFlow and Keras.
